@@ -1,12 +1,9 @@
-- 👋 Hi, I’m @jangirbittu
-- 👀 I’m interested in app development
-- 🌱 I’m currently learning mobile app development
-
 <!---
 jangirbittu/jangirbittu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<h1 align="center">👋 Hi, I'm Ankit Kumar Jangid </h1>  
+<!--- GitHub Profile README -->
+<h1 align="center">👋 Hi, I'm Ankit Kumar Jangid </h1>
 <h3 align="center">🚀 Full-Stack Developer | Android Enthusiast | AI & Cybersecurity Learner</h3>
 
 ---
@@ -85,18 +82,17 @@ You can click the Preview link to take a look at your changes.
 ---
 
 ## 📊 GitHub Stats  
-![GitHub Streak](https://streak-stats.demolab.com?user=your-username&theme=radical&hide_border=true)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=radical)  
+![GitHub Streak](https://streak-stats.demolab.com?user=jangirbittu&theme=radical&hide_border=true)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jangirbittu&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=jangirbittu&layout=compact&theme=radical)  
 
 ---
 
 ## 📬 Contact Me  
-📧 **Email:** [your-email@example.com](mailto:your-email@example.com)  
-💼 **LinkedIn:** [linkedin.com/in/yourprofile](#)  
-🐦 **Twitter:** [@yourhandle](#)  
-🌐 **Portfolio:** [yourwebsite.com](#)  
+📧 **Email:** [jangirbittu30@gmail.com](mailto:jangirbittu30@gmail.com)  
+💼 **LinkedIn:** [Ankit Jangir](https://www.linkedin.com/in/ankit-jangir-6660ba226/)  
+🌐 **Portfolio:** [https://tinyurl.com/Ankitprofiles](https://tinyurl.com/Ankitprofiles)  
 
 ---
 
-### **⭐ If you like my work, consider giving a star to my projects!** 🌟  
+### **⭐ If you like my work, consider giving a star to my projects!** 🌟
