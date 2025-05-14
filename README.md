@@ -4,7 +4,7 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--- GitHub Profile README -->
 <h1 align="center">👋 Hi, I'm Ankit Kumar Jangid </h1>
-<h3 align="center">🚀 Full-Stack Developer | Android Enthusiast | AI & Cybersecurity Learner</h3>
+<h3 align="center">🚀 Web Developer | Android | Cybersecurity Learner</h3>
 
 ---
 
