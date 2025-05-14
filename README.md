@@ -10,19 +10,17 @@ You can click the Preview link to take a look at your changes.
 
 ## 🔥 About Me  
 - 🏆 Passionate **Mobile App Developer** & **Web Developer**  
-- 💻 Currently exploring **Flutter, Supabase, and Ethical Hacking**  
-- 🌱 Constantly learning **AI, Cybersecurity, and Full-Stack Development**  
+- 💻 Currently exploring **Supabase, and Ethical Hacking**  
+- 🌱 Constantly learning **Cybersecurity, and Full-Stack Development**  
 - 🎯 Goal: **Build scalable applications and master cloud computing**  
 - 📝 I regularly write about **Android, React, and Software Development**  
 
 ---
 
 ## ⚡ My Expertise  
-✅ **Mobile Development:** Kotlin, Android Studio, React Native, Flutter  
+✅ **Mobile Development:** Kotlin, Android Studio 
 ✅ **Web Development:** HTML, CSS, JavaScript, React, WordPress, PHP  
-✅ **Databases & Cloud:** Firebase, Supabase, MySQL, MongoDB  
-✅ **Cybersecurity:** Bug Bounty Hunting, Ethical Hacking (Beginner)  
-✅ **Tools & Platforms:** Git, Docker, Postman, Figma, VS Code  
+✅ **Databases & Cloud:** Firebase, Supabase  
 
 ---
 
@@ -56,8 +54,6 @@ You can click the Preview link to take a look at your changes.
 
 ### 📲 Mobile Development  
 ![Android](https://img.shields.io/badge/Android-%2300C853.svg?style=flat&logo=android&logoColor=white)  
-![React Native](https://img.shields.io/badge/React%20Native-%2361DAFB.svg?style=flat&logo=react&logoColor=black)  
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=flat&logo=flutter&logoColor=white)  
 
 ### 🌐 Web Development  
 ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat&logo=html5&logoColor=white)  
@@ -68,14 +64,12 @@ You can click the Preview link to take a look at your changes.
 ### ☁️ Databases & Cloud  
 ![Firebase](https://img.shields.io/badge/Firebase-%23039BE5.svg?style=flat&logo=firebase)  
 ![Supabase](https://img.shields.io/badge/Supabase-%233ECF8E.svg?style=flat&logo=supabase)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=flat&logo=mongodb&logoColor=white)  
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=flat&logo=mysql&logoColor=white)  
 
 ---
 
 ## 🏆 Achievements  
 🏅 **Completed 1-Month Android Development Internship at CODSOFT**  
-🏅 **Developed 18+ Projects in Mobile and Web Development**  
+🏅 **Developed 12+ Projects in Mobile and Web Development**  
 🏅 **Building Advanced Hospital Management & E-Commerce Platforms**  
 🏅 **Learning Ethical Hacking & Cybersecurity for Bug Bounty Hunting**  
 
