@@ -4,23 +4,20 @@ You can click the Preview link to take a look at your changes.
 --->
 <!--- GitHub Profile README -->
 <h1 align="center">👋 Hi, I'm Ankit Kumar Jangid </h1>
-<h3 align="center">🚀 Web Developer | Android | Cybersecurity Learner</h3>
+<h3 align="center">🚀 Web Developer | Android</h3>
 
 ---
 
 ## 🔥 About Me  
 - 🏆 Passionate **Mobile App Developer** & **Web Developer**  
-- 💻 Currently exploring **Supabase, and Ethical Hacking**  
-- 🌱 Constantly learning **Cybersecurity, and Full-Stack Development**  
+- 💻 Currently exploring **Supabase**  
 - 🎯 Goal: **Build scalable applications and master cloud computing**  
-- 📝 I regularly write about **Android, React, and Software Development**  
-
 ---
 
 ## ⚡ My Expertise  
 ✅ **Mobile Development:** Kotlin, Android Studio 
-✅ **Web Development:** HTML, CSS, JavaScript, React, WordPress, PHP  
-✅ **Databases & Cloud:** Firebase, Supabase  
+✅ **Web Development:** HTML, CSS, JavaScript, React, WordPress
+✅ **Databases & Cloud:** Firebase
 
 ---
 
@@ -48,9 +45,7 @@ You can click the Preview link to take a look at your changes.
 ## 🛠️ Tech Stack  
 ### 🚀 Languages  
 ![Kotlin](https://img.shields.io/badge/Kotlin-%230095D5.svg?style=flat&logo=kotlin&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black)  
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=flat&logo=python&logoColor=white)  
-![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=flat&logo=php&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat&logo=javascript&logoColor=black) 
 
 ### 📲 Mobile Development  
 ![Android](https://img.shields.io/badge/Android-%2300C853.svg?style=flat&logo=android&logoColor=white)  
@@ -69,9 +64,9 @@ You can click the Preview link to take a look at your changes.
 
 ## 🏆 Achievements  
 🏅 **Completed 1-Month Android Development Internship at CODSOFT**  
+🏅 **Completed 6-Month Software Development Internship at ACCIO JOB**  
 🏅 **Developed 12+ Projects in Mobile and Web Development**  
 🏅 **Building Advanced Hospital Management & E-Commerce Platforms**  
-🏅 **Learning Ethical Hacking & Cybersecurity for Bug Bounty Hunting**  
 
 ---
 
